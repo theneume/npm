@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /backups/
+Disallow: /summarized_conversations/
+Disallow: /outputs/
+Disallow: /generated_images/
+Disallow: /deploy_repo/
+
+Sitemap: https://seductionsage.com/sitemap.xml

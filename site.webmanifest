@@ -1,0 +1,12 @@
+{
+  "name": "Seduction Sage — The North Pole Method",
+  "short_name": "Seduction Sage",
+  "description": "Dating education for intelligent men: consistency, rapport, archetype alignment, and authentic attraction.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090706",
+  "theme_color": "#090706",
+  "icons": [
+    {"src": "nphero.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
